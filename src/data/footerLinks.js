@@ -36,6 +36,6 @@ export const colThree = [
         title: "Craven Road 7, London UK",
     },
     {
-        title: "© M5-D4 - Tutti i diritti riservati",
+        title: "© M6 - Tutti i diritti riservati",
     },
 ];
